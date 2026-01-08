@@ -91,8 +91,7 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/LostAndFoundManagementSystem.git
-cd LostAndFoundManagementSystem
+https://github.com/Fahad-1221/LOST-AND-FOUND
 
 
 Open in Visual Studio Community.
@@ -210,14 +209,5 @@ For questions or issues:
 
 GitHub Issues: Create an issue
 
-Email: Contact through GitHub profile
+Email: fahadmunirntucs@gmail.com
 
-📸 Screenshots
-
-Login Form – Admin & Student login interface
-
-Student Dashboard – Add lost/found items, view matches, logout
-
-Admin Dashboard – Dashboard stats, add student, view items, manual match
-
-Add/Update Forms – Input forms with image upload and auto date
